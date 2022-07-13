@@ -258,6 +258,8 @@ hr {
   transform-style: preserve-3d;
   z-index: 1;
   image-rendering: -webkit-optimize-contrast;
+  max-width: 60%;
+  margin: auto;
 }
 
 .mobile-preview {
